@@ -67,7 +67,7 @@ I'm a Security Specialist at AWS based in Dublin, Ireland, originally from Rosar
 
 
 - Anthropic [Claude in Amazon Bedrock](https://verify.skilljar.com/c/bzhxxnap25hx) (Sep 2025)
-- AWS Certified Machine Learning Engineer - Associate (May 2026)
+- [AWS Certified Machine Learning Engineer - Associate](https://www.credly.com/badges/f01e0eb5-f46a-4411-bf09-047752a3b50e/) (May 2026)
 - [AWS Certified Security - Specialty](https://www.credly.com/badges/95158fc5-aea9-46e0-9bd5-dc70ba4d94ca/public_url) (Aug 2024, expires Aug 2030)
 - AWS Certified Solutions Architect - Associate (Nov 2018, expired)
 - ISC2 [CISSP - Certified Information Systems Security Professional](https://www.credly.com/badges/5f6a3507-872f-4ed0-922f-4daa2897e377/linked_in_profile) (Feb 2009)
