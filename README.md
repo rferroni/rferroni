@@ -25,7 +25,7 @@ I'm a Security Specialist at AWS based in Dublin, Ireland, originally from Rosar
 - Developing with **Claude Code** and **VSCode + Claude** for day-to-day AI-assisted development workflows
 - Designing **GenAI security architectures** — model selection, context engineering, output evaluation, and security guardrails for AI workloads
 - Driving **AI/ML security best practices** at AWS — Amazon Bedrock secure deployment, Amazon Q security, and GenAI workload protection
-- 🎓 Preparing for **Claude Certified Architect - Foundations** and **AWS Certified Machine Learning Engineer - Associate** (May 2026)
+- 🎓 Preparing for **Claude Certified Architect - Foundations** (May 2026)
 
 ---
 
@@ -67,6 +67,7 @@ I'm a Security Specialist at AWS based in Dublin, Ireland, originally from Rosar
 
 
 - Anthropic [Claude in Amazon Bedrock](https://verify.skilljar.com/c/bzhxxnap25hx) (Sep 2025)
+- AWS Certified Machine Learning Engineer - Associate (May 2026)
 - [AWS Certified Security - Specialty](https://www.credly.com/badges/95158fc5-aea9-46e0-9bd5-dc70ba4d94ca/public_url) (Aug 2024, expires Aug 2030)
 - AWS Certified Solutions Architect - Associate (Nov 2018, expired)
 - ISC2 [CISSP - Certified Information Systems Security Professional](https://www.credly.com/badges/5f6a3507-872f-4ed0-922f-4daa2897e377/linked_in_profile) (Feb 2009)
